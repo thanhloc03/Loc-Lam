@@ -1,3 +1,4 @@
+import { String}
 
 import vue
 
